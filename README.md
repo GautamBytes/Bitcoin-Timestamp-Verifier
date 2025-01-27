@@ -19,11 +19,11 @@ The Bitcoin Timestamp Verifier is a web application designed for users to verify
 ## Installation
 1. **Clone the repository**: 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/GautamBytes/Bitcoin-Timestamp-Verifier.git
    ```
 2. **Navigate to the project directory**: 
    ```bash
-   cd <project-directory>
+   cd proof-of-existence
    ```
 3. **Install dependencies**: 
    ```bash
